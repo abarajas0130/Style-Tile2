@@ -52,3 +52,57 @@ figure p {
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+
+
+/* My Styling */
+/********************/
+/* Color  */
+/***************/
+
+.color-1 {
+background: aqua;
+}
+.color-2 {
+background: red;
+}
+.color-3 {
+background: black;
+}
+
+/* texture */
+/* texture */
+/* texture */
+
+.pattern-1 {
+ background: url("../img/cloth_alike.png");
+}
+
+/*imagery*/
+/*imagery*/
+/*imagery*/
+
+.imagery-1 {
+ background-image: url("../img/dbells.png");
+}
+
+/*font*/
+/*font*/
+/*font*/
+h2 {
+ font-family: 'Dancing Script', cursive;
+    color: blue;
+}
+
+h3 {
+ font-family: 'Dancing Script', cursive;
+    color: blue;
+}
+
+/* Cards */
+/* Cards */
+/* Cards */
+
+
+
+
